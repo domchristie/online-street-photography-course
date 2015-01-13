@@ -1,3 +1,7 @@
+---
+title: "Week 1: An Introduction to Street Photography"
+---
+
 # Week 1: An Introduction to Street Photography
 
 Street photography is a unique type of photography that has been around for nearly a century. What exactly is street photography and how does it differ from reportage or documentary photography? What makes it so special and unique, and how does it help us learn what it means to be human?
