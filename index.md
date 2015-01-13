@@ -23,13 +23,13 @@ The only text that will be necessary to purchase is listed below. All the other 
 
 ## Outline
 
-1. [Week 1: An Introduction to Street Photography](/01-introduction.html)
-2. [Week 2: The History of Street Photography](/02-history.html)
-3. [Week 3: Aesthetics and Styles in Street Photography](/03-aesthetics.html)
-4. [Week 4: How to Shoot in the Streets](/04-how.html)
-5. [Week 5: Classic Street Photography](/05-classic.html)
-6. [Week 6: Contemporary Street Photography](/06-contemporary.html)
-7. [Week 7: The Power of the Image](/07-power.html)
-8. [Week 8: How to Edit Your Work](/08-edit.html)
-9. [Week 9: Ethics in Street Photography](/09-ethics.html)
-10. [Week 10: Exhibition](/10-exhibition.html)
+1. [Week 1: An Introduction to Street Photography]({{ site.baseurl }}01-introduction.html)
+2. [Week 2: The History of Street Photography]({{ site.baseurl }}02-history.html)
+3. [Week 3: Aesthetics and Styles in Street Photography]({{ site.baseurl }}03-aesthetics.html)
+4. [Week 4: How to Shoot in the Streets]({{ site.baseurl }}04-how.html)
+5. [Week 5: Classic Street Photography]({{ site.baseurl }}05-classic.html)
+6. [Week 6: Contemporary Street Photography]({{ site.baseurl }}06-contemporary.html)
+7. [Week 7: The Power of the Image]({{ site.baseurl }}07-power.html)
+8. [Week 8: How to Edit Your Work]({{ site.baseurl }}08-edit.html)
+9. [Week 9: Ethics in Street Photography]({{ site.baseurl }}09-ethics.html)
+10. [Week 10: Exhibition]({{ site.baseurl }}10-exhibition.html)
