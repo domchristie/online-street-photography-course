@@ -19,3 +19,7 @@ One of the largest barriers that aspiring street photographers has is the diffic
 <iframe width="640" height="360" src="//www.youtube.com/embed/EqpGn-jOl0U" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/y-IOEAlBpSo" frameborder="0" allowfullscreen></iframe>
+
+## Experiment
+
+See somebody you want to take a photo of, approach them and take their photograph without permission. After taking their photograph, wave at them, smile, and say thank you.
